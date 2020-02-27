@@ -4,3 +4,6 @@
 ```
 https://minyuchengmin.github.io/therspist/"图片名字.文件格式"
 ```
+
+
+图片目录请查看https://github.com/minyuchengmin/therspist
